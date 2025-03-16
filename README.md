@@ -21,6 +21,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1P1eS68hRm-M1x_C5xTeWmqgMtHgcbiqt/view](https://drive.google.com/file/d/1P1eS68hRm-M1x_C5xTeWmqgMtHgcbiqt/view)
 
+- 🌐 My portfolio at this link [https://axrorxonovdev.vercel.app/](https://axrorxonovdev.vercel.app/)
+
 - ⚡ Fun fact **Programming is not just my job, it's a part of my life!💻**
 
 <h3 align="left">Connect with me:</h3>
